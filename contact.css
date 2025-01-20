@@ -8,8 +8,8 @@
   html, body {
     height: 100%;
     font-family: 'Arial', sans-serif;
-    background-color: #f9fafc;
-    color: #333;
+    background-color:whitesmoke;
+    color:antiquewhite;
   }
   
   body {
@@ -21,7 +21,7 @@
   }
   
   .contact-container {
-    background-color: #00bcd4;
+    background-color: antiquewhite;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     border-radius: 12px;
     width: 100%;

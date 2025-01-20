@@ -13,8 +13,8 @@
   }
   
   header {
-    background-color: #00bcd4;
-    color: #fff;
+    background-color: antiquewhite;
+    color: black;
     padding: 2rem 1rem;
     text-align: center;
   }
@@ -59,7 +59,7 @@
   
   .about-text h2 {
     font-size: 2rem;
-    color: #00bcd4;
+    color: black;
     margin-bottom: 1rem;
   }
   
@@ -74,7 +74,7 @@
   
   .skills-section h3 {
     font-size: 1.8rem;
-    color: #00bcd4;
+    color: black;
     margin-bottom: 1rem;
   }
   
